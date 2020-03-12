@@ -1,3 +1,4 @@
+#Problem 1
 project = "cake"
 difficulty = 5
 ingredients = ["flour", "butter", "sugar", "eggs", "cocoa powder", "baking powder"]
@@ -11,9 +12,17 @@ sugar = "100g"
 eggs = 2
 cocoa_powder = "1ts"
 baking_powder = 0.5
-print("flour" + " -" , flour)
-print("butter" + " -", butter)
-print("sugar" + " -", sugar)
-print("eggs" + " -", eggs)
-print("cocoa powder" + " -",cocoa_powder)
-print("baking powder" + " -",baking_powder)
+print(type(flour))
+print(type(butter))
+print(type(sugar))
+print(type(eggs))
+print(type(cocoa_powder))
+print(type(baking_powder))
+print("flour -" , flour)
+print("butter -", butter)
+print("sugar -", sugar)
+print("eggs -", eggs)
+print("cocoa powder -",cocoa_powder)
+print("baking powder -",baking_powder)
+ 
+ 
