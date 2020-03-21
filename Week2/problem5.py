@@ -1,0 +1,6 @@
+text1 = input()
+print("# of a:",text1.count("a"))
+print("# of a:",text1.count("b"))
+print("# of a:",text1.count("c"))
+print("# of a:",text1.count("d"))
+print("# of a:",text1.count("e"))
