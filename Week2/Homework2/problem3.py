@@ -1,0 +1,7 @@
+text = input()
+first_word = input()
+second_word = input()
+print("The given text:",text)
+print("First Word:",first_word)
+print("Second Word:",second_word)
+print("Output string:",text.replace(first_word,second_word))
