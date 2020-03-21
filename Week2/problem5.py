@@ -1,4 +1,4 @@
-text1 = input()
+text1 = input("text ")
 print("# of a:",text1.count("a"))
 print("# of a:",text1.count("b"))
 print("# of a:",text1.count("c"))
