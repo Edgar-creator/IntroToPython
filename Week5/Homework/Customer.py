@@ -4,10 +4,10 @@ def buy(product, num, price):
         print("You bought product and spent %d" %(num*price))
     else:
         print("Sorry! We are out of this product.")
-def main():
+def k():
     product = input()
     num = int(input())
     price = int(input())
     result = buy(product, num, price)
 if __name__ == "__main__":
-    main()
+    k()
